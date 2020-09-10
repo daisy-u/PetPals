@@ -1,0 +1,3 @@
+[submodule "PetPals"]
+	path = PetPals
+	url = git@github.com:alikasper/PetPals.git
